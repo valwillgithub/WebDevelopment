@@ -1,0 +1,16 @@
+{
+	"name": "-3.1-express-server",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "nodemon index.js"
+	},
+	"keywords": [],
+	"author": "V Williams",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.19.2"
+	}
+}

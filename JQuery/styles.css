@@ -1,0 +1,17 @@
+.big-title {
+	font-size: 5rem;
+	color: blueviolet;
+	font-family: cursive;
+}
+
+.margin-50 {
+	margin: 20px;
+}
+
+.newbutton {
+	width: 100px;
+	height: 100px;
+	font-size: 20px;
+	background-color: green;
+	color: white;
+}
