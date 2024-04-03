@@ -8,8 +8,8 @@ const API_URL = 'https://secrets-api.appbrewery.com';
 //TODO 1: Fill in your values for the 3 types of auth.
 const yourUsername = 'vdiddy';
 const yourPassword = 'test1';
-const yourAPIKey = '7eb44428-c8f3-48a9-b054-4668001ef1e4';
-const yourBearerToken = 'd6796279-4e5f-4d8e-8737-b9bd14a368ff';
+const yourAPIKey = '';
+const yourBearerToken = '';
 
 app.get('/', async (req, res) => {
 	const response = await axios.get(API_URL);
